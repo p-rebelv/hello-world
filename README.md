@@ -1,2 +1,1 @@
-# hello-world
-First repo
+yello people
